@@ -1,5 +1,5 @@
 {
-   "hydra:member":[
+   "review":[
       {
          "id":1,
          "name":"Titre 1",
@@ -37,6 +37,88 @@
          "name":"Titre 1",
          "content":"Contenu 1",
          "rating":1,
+         "created_at":"2021-03-01T00:00:00+00:00",
+         "updated_at":"2021-03-01T00:00:00+00:00"
+      }
+   ],
+   "dogWalk":[
+      {
+         "id":1,
+         "name":"Balade 1",
+         "description":"Description de la balade 1",
+         "city":"Ville 1",
+         "postal_code":1,
+         "street":"Rue 1",
+         "latitude":1,
+         "longitude":1,
+         "obligatory_leash":true,
+         "water_point":true,
+         "processionary_caterpillar_alert":true,
+         "cyanobacteria_alert":true,
+         "created_at":"2021-03-01T00:00:00+00:00",
+         "updated_at":"2021-03-01T00:00:00+00:00"
+      },
+      {
+         "id":2,
+         "name":"Balade 1",
+         "description":"Description de la balade 1",
+         "city":"Ville 1",
+         "postal_code":1,
+         "street":"Rue 1",
+         "latitude":1,
+         "longitude":1,
+         "obligatory_leash":true,
+         "water_point":true,
+         "processionary_caterpillar_alert":true,
+         "cyanobacteria_alert":true,
+         "created_at":"2021-03-01T00:00:00+00:00",
+         "updated_at":"2021-03-01T00:00:00+00:00"
+      },
+      {
+         "id":3,
+         "name":"Balade 1",
+         "description":"Description de la balade 1",
+         "city":"Ville 1",
+         "postal_code":1,
+         "street":"Rue 1",
+         "latitude":1,
+         "longitude":1,
+         "obligatory_leash":true,
+         "water_point":true,
+         "processionary_caterpillar_alert":true,
+         "cyanobacteria_alert":true,
+         "created_at":"2021-03-01T00:00:00+00:00",
+         "updated_at":"2021-03-01T00:00:00+00:00"
+      },
+      {
+         "id":4,
+         "name":"Balade 1",
+         "description":"Description de la balade 1",
+         "city":"Ville 1",
+         "postal_code":1,
+         "street":"Rue 1",
+         "latitude":1,
+         "longitude":1,
+         "obligatory_leash":true,
+         "water_point":true,
+         "processionary_caterpillar_alert":true,
+         "cyanobacteria_alert":true,
+         "created_at":"2021-03-01T00:00:00+00:00",
+         "updated_at":"2021-03-01T00:00:00+00:00"
+      },
+      {
+         "id":5,
+         "name":"Balade 1",
+         "description":"Description de la balade 1",
+         "city":"Ville 1",
+         "postal_code":1,
+         "street":"Rue 1",
+         "latitude":1,
+         "longitude":1,
+         "obligatory_leash":true,
+         "water_point":true,
+         "processionary_caterpillar_alert":true,
+         "cyanobacteria_alert":true,
          "created_at":"2021-03-01T00:00:00+00:00",
          "updated_at":"2021-03-01T00:00:00+00:00"
       }
