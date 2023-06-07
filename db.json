@@ -45,6 +45,7 @@
       {
          "id":1,
          "name":"Balade 1",
+         "slug": "balade-1"
          "description":"Description de la balade 1",
          "city":"Ville 1",
          "postal_code":1,
@@ -61,6 +62,7 @@
       {
          "id":2,
          "name":"Balade 1",
+          "slug": "balade-1",
          "description":"Description de la balade 1",
          "city":"Ville 1",
          "postal_code":1,
@@ -77,6 +79,7 @@
       {
          "id":3,
          "name":"Balade 1",
+         "slug": "balade-1",
          "description":"Description de la balade 1",
          "city":"Ville 1",
          "postal_code":1,
@@ -93,6 +96,7 @@
       {
          "id":4,
          "name":"Balade 1",
+         "slug": "balade-1",
          "description":"Description de la balade 1",
          "city":"Ville 1",
          "postal_code":1,
@@ -109,6 +113,7 @@
       {
          "id":5,
          "name":"Balade 1",
+         "slug": "balade-1",
          "description":"Description de la balade 1",
          "city":"Ville 1",
          "postal_code":1,
