@@ -45,7 +45,7 @@
       {
          "id":1,
          "name":"Balade 1",
-         "slug": "balade-1"
+         "slug": "balade-1",
          "description":"Description de la balade 1",
          "city":"Ville 1",
          "postal_code":1,
