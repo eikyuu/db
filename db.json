@@ -61,7 +61,7 @@
       },
       {
          "id":2,
-         "name":"Balade 1",
+         "name":"Balade 2",
           "slug": "balade-1",
          "description":"Description de la balade 1",
          "city":"Ville 1",
@@ -78,7 +78,7 @@
       },
       {
          "id":3,
-         "name":"Balade 1",
+         "name":"Balade 3",
          "slug": "balade-1",
          "description":"Description de la balade 1",
          "city":"Ville 1",
@@ -95,7 +95,7 @@
       },
       {
          "id":4,
-         "name":"Balade 1",
+         "name":"Balade 4",
          "slug": "balade-1",
          "description":"Description de la balade 1",
          "city":"Ville 1",
@@ -112,7 +112,7 @@
       },
       {
          "id":5,
-         "name":"Balade 1",
+         "name":"Balade 5",
          "slug": "balade-1",
          "description":"Description de la balade 1",
          "city":"Ville 1",
