@@ -62,7 +62,7 @@
       {
          "id":2,
          "name":"Balade 2",
-          "slug": "balade-1",
+          "slug": "balade-2",
          "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at risus at mi placerat imperdiet vitae id nisl. Donec efficitur arcu at nibh commodo tempor.",
          "city":"Ville 1",
          "postal_code":1,
@@ -79,7 +79,7 @@
       {
          "id":3,
          "name":"Balade 3",
-         "slug": "balade-1",
+         "slug": "balade-3",
          "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at risus at mi placerat imperdiet vitae id nisl. Donec efficitur arcu at nibh commodo tempor. In ornare et felis ac vehicula. Mauris efficitur risus velit.",
          "city":"Ville 1",
          "postal_code":1,
@@ -96,7 +96,7 @@
       {
          "id":4,
          "name":"Balade 4",
-         "slug": "balade-1",
+         "slug": "balade-4",
          "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at risus at mi placerat imperdiet vitae id nisl. In ornare et felis ac vehicula. Mauris efficitur risus velit. Curabitur posuere et velit id sed.",
          "city":"Ville 1",
          "postal_code":1,
@@ -113,7 +113,7 @@
       {
          "id":5,
          "name":"Balade 5",
-         "slug": "balade-1",
+         "slug": "balade-5",
          "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at risus at mi placerat imperdiet vitae id nisl. Donec efficitur arcu at nibh commodo tempor. In ornare et felis ac vehicula. Mauris efficitur risus velit. Curabitur posuere et velit id sed.",
          "city":"Ville 1",
          "postal_code":1,
