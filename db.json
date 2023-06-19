@@ -73,7 +73,7 @@
          "obligatory_leash": "Oui",
          "water_point":true,
          "processionary_caterpillar_alert":true,
-         "cyanobacteria_alert":true,
+         "cyanobacteria_alert":false,
          "note": 2,
          "created_at":"2021-03-01T00:00:00+00:00",
          "updated_at":"2021-03-01T00:00:00+00:00"
