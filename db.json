@@ -65,7 +65,7 @@
          "name":"Balade 2",
           "slug": "balade-2",
          "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at risus at mi placerat imperdiet vitae id nisl. Donec efficitur arcu at nibh commodo tempor.",
-         "city":"Ville 1",
+         "city":"Test",
          "postal_code":1,
          "street":"Rue 1",
          "latitude":47.40392636603371,
